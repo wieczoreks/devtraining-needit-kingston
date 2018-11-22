@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="label" max_length="40" name="option" type="collection">
+        <element label="NewDate" max_length="80" name="x_58872_needit_u_field_name_2" type="field_name"/>
+        <element label="New Date" max_length="40" name="x_58872_needit_u_glide_date_1" type="glide_date"/>
+    </element>
+</database>
